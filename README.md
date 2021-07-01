@@ -1,10 +1,6 @@
-#![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Contact Form
 
 > Basic project for cr training purposes.
-
-![screenshot](./app_screenshot.png)
 
 ## Built With
 
@@ -13,44 +9,42 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/mohamedSabry0/cr_contact_form/main/index.html)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+To run the project smoothly, you must have the following installed on your machine:
 
-### Install
+- Git
+- A web browser.
 
-### Usage
+To make any change,
 
-### Run tests
+- Open related file by using text editor.
 
-### Deployment
+### Local Setup
+- create a directory
 
+- run the following in your terminal:
+`git clone git@github.com:mohamedSabry0/cr_contact_form.git`
 
+- run `cd cr_contact_form`
 
-## Authors
+- open the current directory in your text editor of choice
 
-👤 **Author1**
+## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Mohamed Sabry**
 
-👤 **Author2**
+- GitHub: [@mohamedSabry0](https://github.com/mohamedSabry0)
+- Twitter: [@mohsmh0](https://twitter.com/mohsmh0)
+- LinkedIn: [Mohamed Sabry](https://linkedin.com/in/mohamed-sabry0/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -62,11 +56,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
