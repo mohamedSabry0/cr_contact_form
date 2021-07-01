@@ -347,13 +347,13 @@ li {
 .contact input {
   border: none;
   margin: 0.5rem 0;
-  border-bottom: #DBD8D7 solid 1px;
+  border-bottom: #dbd8d7 solid 1px;
   padding: 0.2rem;
 }
 
 .form-submit {
   border: none;
-  background: #F55800;
+  background: #f55800;
   color: #fff;
   padding: 0.5rem;
   width: 100px;
