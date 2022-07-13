@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="stylesheet" href="./main.css" />
     <title>Aziz Mejri - Portfolio</title>
   </head>
   <body>
@@ -289,9 +289,18 @@
           </ul>
         </div>
       </div>
-      <div class="contact">
-        <form action=""></form>
-      </div>
+      <section>
+        <h2>I Would love to hear from you. If you have a project or a feature
+          that you would like to discuss, please get in touch giving some summary 
+          using this form.
+        </h2>
+        <form action="https://formspree.io/f/myylpdqq" method="POST">
+          <input type="text" name="full-name" maxlength="30" placeholder="Name" required>
+          <input type="email" name="email" placeholder="Email address" required>
+          <textarea name="message" maxlength="500" placeholder="message..." required></textarea>
+          <button type="submit" class="form-submit">Get in touch</button>
+        </form>
+      </section>
     </main>
 
     <script
